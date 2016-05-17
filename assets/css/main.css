@@ -3067,6 +3067,24 @@
 			-ms-flex: 1;
 		}
 
+.content1 {
+    padding: 4em 0em 2em 8em ;
+    display: -moz-flex;
+    display: -webkit-flex;
+    display: -ms-flex;
+    display: flex;
+    -moz-flex-direction: column;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -moz-justify-content: center;
+    -webkit-justify-content: center;
+    -ms-justify-content: center;
+    justify-content: center;
+    width: 50em;
+    -ms-flex: 1;
+}
+
 			.spotlights > section > .content > .inner {
 				-moz-transform: translateX(0) translateY(0);
 				-webkit-transform: translateX(0) translateY(0);
