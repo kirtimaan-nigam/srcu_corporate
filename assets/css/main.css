@@ -316,8 +316,8 @@
 	@media screen and (max-width: 1680px) {
 		
 		#logo_size {
-			width: 40%;
-			height: 40%;
+			width: 50%;
+			height: 50%;
 		}
 
 		.row > * {
@@ -538,6 +538,7 @@
 		#logo_size {
 			width: auto;
 			height: 42px;
+			margin-top: 8px;
 		}
 
 		.row > * {
@@ -758,6 +759,7 @@
 		#logo_size {
 			width: auto;
 			height: 42px;
+			margin-top: 8px;
 		}
 
 		.row > * {
