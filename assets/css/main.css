@@ -538,7 +538,7 @@
 		#logo_size {
 			width: auto;
 			max-height: 40px;
-			margin-top: 0.5vh;
+			margin-top: 5px;
 		}
 
 		.row > * {
@@ -759,7 +759,7 @@
 		#logo_size {
 			width: auto;
 			max-height: 40px;
-			margin-top: 0.5vh;
+			margin-top: 5px;
 		}
 
 		.row > * {
